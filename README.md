@@ -38,3 +38,4 @@ El programa realizado es -ShoppingCart01-. La imagen muestra el mensaje formado:
 
 El programa generado es -ShoppingCart02-.
 
+![Ejercicio 3_3_2](https://user-images.githubusercontent.com/54320247/64307997-73031200-cf5d-11e9-9ca3-b4be8def1887.jpg)
